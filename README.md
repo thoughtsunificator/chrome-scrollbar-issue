@@ -20,7 +20,9 @@ The scrollbars disappeared immediately after an absolute positionned element ren
 Yes
 
 Chrome version: 129.0.6668.58 Channel: stable
+
 OS Version: 
+
 Flash Version:
 
 ## Demo
